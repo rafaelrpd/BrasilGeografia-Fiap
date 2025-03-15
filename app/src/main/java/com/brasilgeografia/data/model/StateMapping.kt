@@ -1,0 +1,31 @@
+package com.brasilgeografia.data.model
+
+val ibgeStateNames = mapOf(
+    11 to "Rondônia",
+    12 to "Acre",
+    13 to "Amazonas",
+    14 to "Roraima",
+    15 to "Pará",
+    16 to "Amapá",
+    17 to "Tocantins",
+    21 to "Maranhão",
+    22 to "Piauí",
+    23 to "Ceará",
+    24 to "Rio Grande do Norte",
+    25 to "Paraíba",
+    26 to "Pernambuco",
+    27 to "Alagoas",
+    28 to "Sergipe",
+    29 to "Bahia",
+    31 to "Minas Gerais",
+    32 to "Espírito Santo",
+    33 to "Rio de Janeiro",
+    35 to "São Paulo",
+    41 to "Paraná",
+    42 to "Santa Catarina",
+    43 to "Rio Grande do Sul",
+    50 to "Mato Grosso do Sul",
+    51 to "Mato Grosso",
+    52 to "Goiás",
+    53 to "Distrito Federal"
+)
